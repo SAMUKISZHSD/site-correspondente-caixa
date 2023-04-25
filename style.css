@@ -446,7 +446,9 @@ animation-iteration-count: infinite;
 } 
 }
 
- 
+ ::-webkit-scrollbar {
+    display: none;
+}
 
  /* For Mobile */
  @media (max-width: 991px) {
