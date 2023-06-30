@@ -1,4 +1,5 @@
 # site-correspondente-caixa
+**VEJA O SITE AQUI: https://samukiszhsd.github.io/site-correspondente-caixa/#home**
 Este repositório contém o código fonte e recursos necessários para desenvolver um site responsivo para um Correspondente Bancário da Caixa. O objetivo principal deste projeto é criar uma plataforma intuitiva e atraente, com foco em UI/UX (User Interface / User Experience), para divulgar os serviços oferecidos pelo correspondente bancário. 
 
 # Recursos
