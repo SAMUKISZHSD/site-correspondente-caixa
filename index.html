@@ -145,11 +145,14 @@
             <span>venha conversar comigo</span>
         </div>
         <div class="contact-form">
-            <form action="">
-                <input type="text" placeholder="seu nome">
-                <input type="email" name="" id="" placeholder="seu email">
-                <textarea name="" id="" cols="30" rows="10" placeholder="escreva sua mensagem aqui..."></textarea>
-                <input type="button" value="enviar" class="contact-button">
+            <form method="POST" action="/index.php">
+                <input name= nome type="text" placeholder="seu nome">
+                <input name= serviços type="text" placeholder="serviço">
+                <input name= email type="email" name="" id="" placeholder="seu email">
+                <textarea name="texto" id="" cols="30" rows="10" placeholder="escreva sua mensagem aqui..."></textarea>
+               
+                <input name= enviar type="button" value="enviar" class="contact-button">
+             
             </form>
         </div>
     </section>
